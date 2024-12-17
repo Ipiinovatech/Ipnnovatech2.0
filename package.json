@@ -62,8 +62,11 @@
     "@types/react-dom": "18.2.7",
     "@types/react-google-recaptcha": "^2.1.9",
     "@types/react-scroll": "^1.8.10",
-    "eslint": "^9.17.0",
-    "eslint-config-next": "^15.1.1",
+    "eslint": "^9.17.0",  
+    "eslint-config-next": "^15.1.1",  
     "typescript": "5.2.2"
+  },
+  "comments": {
+    "eslint": "Se cambia la versión de eslint a la 9.17.0 para resolver problemas de compatibilidad"
   }
 }
